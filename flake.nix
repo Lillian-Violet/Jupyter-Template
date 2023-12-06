@@ -28,6 +28,7 @@
                 pandas
               ]))
           ];
+          shellHook = "codium"
         };
       }
     );
