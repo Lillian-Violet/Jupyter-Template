@@ -23,7 +23,6 @@
             (python3.withPackages (ps:
               with ps; [
                 ipython
-                ipykernel
                 jupyter
                 numpy
                 pandas

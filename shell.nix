@@ -9,5 +9,7 @@ pkgs.mkShell {
     python310Packages.geopandas
     python310Packages.numpy
     python310Packages.matplotlib
+    python310Packages.ipykernel
+    python310Packages.pip
   ];
 }
