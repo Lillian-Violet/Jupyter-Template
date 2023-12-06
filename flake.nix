@@ -28,7 +28,6 @@
                 pandas
               ]))
           ];
-          shellHook = "jupyter notebook";
         };
       }
     );
